@@ -1,0 +1,63 @@
+/* Write your CSS here */
+.show-hide-bg-container {
+  background-image: linear-gradient(to right, #fa7257, #fc63a7);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.show-hide-main-heading {
+  color: #ffffff;
+  font-family: Roboto;
+  font-size: 42px;
+}
+
+.btn-name-container {
+  display: flex;
+  justify-content: center;
+}
+
+.btn-name-inner-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 16px;
+  margin-right: 36px;
+}
+
+.show-hide-button {
+  background-color: #ffffff;
+  color: #dd1264;
+  font-weight: bold;
+  font-family: Roboto;
+  padding: 8px;
+  border-width: 0px;
+  border-radius: 8px;
+}
+
+.name-bg-container {
+  background-color: #fddddb;
+  width: 200px;
+  height: 100px;
+  margin-top: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 12px;
+}
+
+.name-bg-2 {
+  background-color: transparent;
+  width: 200px;
+  height: 100px;
+  margin-top: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 12px;
+}
